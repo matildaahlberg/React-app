@@ -1,0 +1,64 @@
+[
+  {
+    "id": 2173456273652,
+    "userName": "matilda_ahlberg",
+    "ePost": "matildaahlberg99@gmail.com",
+    "student": true,
+    "faktaOm": {
+      "favoritRatt": "Lasagne",
+      "intresse": "surf",
+      "barn": null,
+      "motto": "Pengar kommer och går, minnen består"
+    }
+  },
+  {
+    "id": 2238432322,
+    "userName": "kalle_kula",
+    "ePost": "kulan@gmail.com",
+    "student": false,
+    "faktaOm": {
+      "favoritRatt": "Pannkakor",
+      "intresse": "fotboll",
+      "barn": [
+        {
+          "namn": "Tilda",
+          "ålder": 3
+        },
+        {
+          "namn": "Marcus",
+          "ålder": 5
+        }
+      ],
+      "motto": "Carpe Diem"
+    }
+  },
+  {
+    "id": 2236667722,
+    "userName": "lotta_brak",
+    "ePost": "lottaonthestreet@gmail.com",
+    "student": false,
+    "faktaOm": {
+      "favoritRatt": "Köttbullar",
+      "intresse": "Bråka",
+      "barn": null,
+      "motto": "You only live once"
+    }
+  },
+  {
+    "id": 2236667722,
+    "userName": "bengan",
+    "ePost": "Bengt77@gmail.com",
+    "student": false,
+    "faktaOm": {
+      "favoritRatt": "Köttbullar",
+      "intresse": "Bråka",
+      "barn": [
+        {
+          "namn": "Lisa",
+          "ålder": 7
+        }
+      ],
+      "motto": "You only live once"
+    }
+  }
+]
